@@ -45,5 +45,3 @@ This project is an advanced Python application that leverages [MediaPipe](https:
 - Real-time classroom, gaming, or remote collaboration attention analytics.
 - Development and rapid prototyping for HCI (Human-Computer Interaction) systems.
 - Research in behavioral detection, affective computing, or personal ergonomics feedback.
-
-**Feel free to adjust to your focus, e.g., computer vision demos, emotion analytics, or ergonomics. Let me know if you’d like a custom short/long version or a formatted README starter!**
